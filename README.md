@@ -7,7 +7,7 @@ A cute and interactive Valentine's Day proposal application built with Python an
 
 - Python 3.x
 - Tkinter (usually comes with Python)
-- The [`sunflower.py`](https://github.com/Sandreke/turtle-python/blob/main/04.py) script or any other in the same directory (for the surprise animation)
+- The [`sunflower.py`](https://github.com/Vivek/turtle-python/blob/main/04.py) script or any other in the same directory (for the surprise animation)
 
 ## Installation 🚀
 
